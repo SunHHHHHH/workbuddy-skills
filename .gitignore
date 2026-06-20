@@ -25,3 +25,5 @@ Thumbs.db
 *.dylib
 *.dll
 *.bin
+debug.log
+*.log
